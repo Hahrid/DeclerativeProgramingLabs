@@ -40,7 +40,7 @@
   
   )
 
-
+(quest_1_func 2 3)
         
 
           
@@ -75,3 +75,5 @@
       (perfect-less (- n 1)))
   (else
    (perfect-less (- n 1)))))
+
+(perfect-less 1000) 
